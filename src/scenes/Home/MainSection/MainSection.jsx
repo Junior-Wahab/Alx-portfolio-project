@@ -20,7 +20,7 @@ const MainSection = () => {
           <Typewriter
             strings={[
               'Continuously Learning',
-              'React Native Developer',
+              'Designer and ReactJS Developer',
             ]}
             wrapperClassName={s.typewriterWrapper}
             cursorClassName={s.typewriterCursor}
